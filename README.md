@@ -4,7 +4,7 @@
 <title>COLLEGE WEBSITE</title>
 <metaname="keywords" content="html5.css">
 <style>
-p{color:green;fontsize:25px}
+p{color:green ; fontsize:25px}
 </style>
 </head>
 <body bgcolor=yellow>
