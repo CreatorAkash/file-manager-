@@ -4,7 +4,7 @@
 <title>COLLEGE WEBSITE</title>
 <metaname="keywords" content="html5.css">
 <style>
-p{color:green ; fontsize:25px}
+p{color:green;fontsize:25px}
 </style>
 </head>
 <body bgcolor=yellow>
@@ -13,7 +13,7 @@ p{color:green ; fontsize:25px}
 <a href="page2.html">feedback</a>
 <centre><img src="abc.jpg" alt="college image" width=30 height=300></centre>
 <p><b><i> Prakashjit Junior college </i></b> 
-bsdhu jfuejfefkjhd cfirfujlkjekoj hdkc cdhuehjfvhf jdscbdjchdbs hcsjcysg gschbchch bsdcjsdhu hefefef ewyfhe ucdc in <u> science </u>
-and <u> commerce </u> branches</p>
+bsdhu jfuejfefkjhd cfirfujlkjekoj hdkc cdhuehjfvhf jdscbdjchdbs hcsjcysg gschbchch bsdcjsdhu hefefef ewyfhe ucdc in <u>science</u>
+and <u>commerce</u> branches</p>
 </body>
 </html>
